@@ -1,0 +1,11 @@
+Implementation
+Non primitive data types:
+  - Syntax:
+    - Classes: It's a feature of OOPs, where we can write functionality and attributes of a type of class, and can make multiple objects out of it. Object is an instance of class.
+    - Interface: It's a blueprint for classes, it has abstract methods.
+    - Arrays: Used to store multiple values in one variable, instead of declaring them separately, int[] arrayName = new int[10], Here; arrayName is the array that can hold 10 integers.
+    - Strings: Used to store text, String txt = "this is a string", Here; txt is essentially an object of class String and we can perform some methods on it too.
+
+Data Structures:
+  - Stored in java.util.* package; List, Set and Map are interfaces which are implemented in order to give us usable data structures; ArrayList, LinkedList, HashSet, HashMap etc.
+  - ArrayList: It's a resizable array. ArrayList<String> arrayListName = new ArrayList<String>(); in this arrayListName is ArrayList on which we can use diff methods, as it is an object of ArrayList class.
